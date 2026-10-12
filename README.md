@@ -102,6 +102,10 @@ Future Enhancements
 - Add monitoring dashboards for security outcomes, latency, and operational cost.
 - Run threat-model reviews and independent security testing.
 
+
+
+<img width="1244" height="1830" alt="image" src="https://github.com/user-attachments/assets/f17e16a4-11ba-4ba5-9ff1-eb6eda776e7e" />
+
   
 **Author**
 Gaurav Ahuja
