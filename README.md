@@ -33,18 +33,18 @@ The exact detection methods and runtime integrations should be confirmed against
 
 
 **Repository Structure**
-The repository view includes the following files:
-Path	Apparent purpose
-.agents/	Agent-related configuration or resources; inspect the directory to confirm details.
-app.py	Likely application entry point or demonstration interface.
-firewall.py	Likely core firewall logic.
-test_firewall.py	Likely automated tests for firewall behavior.
-demo_cases.json	Demonstration/test cases.
-demo_cases_100.json	Larger set of demonstration/test cases.
-prompt_firewall_audit.json	Likely audit or decision records.
-file_watcher.py	File-watching utility; exact behavior should be confirmed from code.
-requirements.txt	Python dependencies.
-AGENTIC_PROMPT_INJECTION_FIREWALL_Pitch_Dec.pdf	Hackathon pitch deck.
+| Path       |       Apparent purpose |
+
+| `.agents/` | Agent-related configuration or resources; inspect the directory to confirm details. |
+| `app.py` | Likely application entry point or demonstration interface. |
+| `firewall.py` | Likely core firewall logic. |
+| `test_firewall.py` | Likely automated tests for firewall behavior. |
+| `demo_cases.json` | Demonstration/test cases. |
+| `demo_cases_100.json` | Larger set of demonstration/test cases. |
+| `prompt_firewall_audit.json` | Likely audit or decision records. |
+| `file_watcher.py` | File-watching utility; exact behavior should be confirmed from code. |
+| `requirements.txt` | Python dependencies. |
+| `AGENTIC_PROMPT_INJECTION_FIREWALL_Pitch_Dec.pdf` | Hackathon pitch deck. |
 
 
 The purposes above are inferred from filenames and the repository screenshot. Check the implementation before relying on any inferred behavior.
